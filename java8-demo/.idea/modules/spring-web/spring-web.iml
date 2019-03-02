@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-web" external.linked.project.path="E:/spring/spring-framework-5.0.2.RELEASE/spring-web" external.root.project.path="E:/spring/spring-framework-5.0.2.RELEASE" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="1">
+        <option name="compilerInfo">
+          <KotlinCompilerInfo>
+            <option name="compilerSettings">
+              <CompilerSettings>
+                <option name="additionalArguments" value="-d E:\spring\spring-framework-5.0.2.RELEASE\spring-web\build\classes\kotlin\main -cp E:\spring\spring-framework-5.0.2.RELEASE\spring-beans\build\libs\spring-beans-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-core-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-cglib-repack-3.2.5.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-objenesis-repack-2.6.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-jcl\build\libs\spring-jcl-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-context\build\libs\spring-context-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-aop\build\libs\spring-aop-5.0.2.RELEASE.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.1.0\3cd63d075497751784b2fa84be59432f4905bf7c\javax.servlet-api-3.1.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.servlet.jsp\javax.servlet.jsp-api\2.3.2-b02\287387015b38bb4fc5d5f085c938ab51bf82b00\javax.servlet.jsp-api-2.3.2-b02.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.el\javax.el-api\3.0.1-b04\8c0c970b8deae5054ff0bf4b17979c8181a506d3\javax.el-api-3.0.1-b04.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.faces\javax.faces-api\2.2\e314573935023b6151643e97e9629a2d9f6f604d\javax.faces-api-2.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.json.bind\javax.json.bind-api\1.0\10332203cb05f4ab2e8bf058bfd7d99648c5ca68\javax.json.bind-api-1.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.mail\javax.mail-api\1.6.0\1941270d3b04ded5bdc274351450b4afe47be080\javax.mail-api-1.6.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.validation\validation-api\1.1.0.Final\8613ae82954779d518631e05daa73a6a954817d5\validation-api-1.1.0.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.xml.ws\jaxws-api\2.3.0\82db2dfe70624d6ed1e93737abfbb0a4df084a89\jaxws-api-2.3.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.xml.bind\jaxb-api\2.3.0\99f802e0cb3e953ba3d6e698795c4aeb98d37c48\jaxb-api-2.3.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava-reactive-streams\1.2.1\dac56d021c092c34662943dae3ab1432542005\rxjava-reactive-streams-1.2.1.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.3.4\70bc266f0185db52b031d717989859b8098bdc2a\rxjava-1.3.4.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.6\596a6b4752ca6ec511a167e92b6387654f32023b\rxjava-2.1.6.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.17.Final\43142cd1d6a0ea281eb6a4990354b4d3ad23dd43\netty-all-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.projectreactor.ipc\reactor-netty\0.7.2.RELEASE\6e6b3f89448a0ed8770d9035a8570abcc616ad6c\reactor-netty-0.7.2.RELEASE.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.tomcat.embed\tomcat-embed-core\8.5.23\79261793a47f507890ee08f749b9d81774e4f7f0\tomcat-embed-core-8.5.23.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-servlet\9.4.7.v20170914\980023d7ac2504839f89f337de76c345b21808a1\jetty-servlet-9.4.7.v20170914.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-security\9.4.7.v20170914\5119551fb6f19c556ea40588ab4c8f11967796ad\jetty-security-9.4.7.v20170914.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-server\9.4.7.v20170914\886adb1b347f42698ea5482e600033428ad32afb\jetty-server-9.4.7.v20170914.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.undertow\undertow-core\1.4.21.Final\5b090ee5bc041d1515be2e78687a868424495a73\undertow-core-1.4.21.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpasyncclient\4.1.3\34c56f43fd3255fc239ffe33d0fbfb8195be6a24\httpasyncclient-4.1.3.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.3\d1577ae15f01ef5438c5afc62162457c00a34713\httpclient-4.5.3.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\commons-fileupload\commons-fileupload\1.3.3\4ff14d809195b711fd6bcc87e6777f886730ca1\commons-fileupload-1.3.3.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.synchronoss.cloud\nio-multipart-parser\1.1.0\c6c417fec6612584b1c34d4dd98c5a4e47e8c754\nio-multipart-parser-1.1.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.dataformat\jackson-dataformat-xml\2.9.2\bb0f0433385c8b3f89e28dbd1b1c982f20f32b69\jackson-dataformat-xml-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.woodstox\woodstox-core\5.0.3\10aa199207fda142eff01cd61c69244877d71770\woodstox-core-5.0.3.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml\aalto-xml\1.0.0\aeae9e8a71914e7f5efc8a69d2f5cb1f2224f2c6\aalto-xml-1.0.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.module\jackson-module-jaxb-annotations\2.9.2\8abd01f740ef04d05811bbca5612371bf034b05e\jackson-module-jaxb-annotations-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.9.2\1d8d8cb7cf26920ba57fb61fa56da88cc123b21f\jackson-databind-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.dataformat\jackson-dataformat-smile\2.9.2\a7cf50aff5bd96e3a0ba551a688bf402e2a594c3\jackson-dataformat-smile-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.dataformat\jackson-dataformat-cbor\2.9.2\9ad705ca14f5d1879dfffc3d94a521bf2f2e8ea7\jackson-dataformat-cbor-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java-util\3.5.0\b332ab1a40876d1ee062ea96256b77d248c9fb4\protobuf-java-util-3.5.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.googlecode.protobuf-java-format\protobuf-java-format\1.4\b81e7d188c2cc766bc150bd3c77154178b3541d5\protobuf-java-format-1.4.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.rometools\rome\1.9.0\4546a79a6fb470c5235806c877d9438140f3bb61\rome-1.9.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.caucho\hessian\4.0.51\29047eb08639a98e4b9437d7cbe81fb0471ba7\hessian-4.0.51.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-all\2.4.13\7e410735a50e495323dd4855ddd13ea7dad23ac1\groovy-all-2.4.13.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-reflect\1.1.61\bb6da1a122c3fba2f7ee5c71946441e4f756fad4\kotlin-reflect-1.1.61.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.61\fa7813a26c548c9c412dd2d42fb466cfcd8dcf3c\kotlin-stdlib-1.1.61.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-expression\build\libs\spring-expression-5.0.2.RELEASE.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.xml.soap\javax.xml.soap-api\1.4.0\667ef2eee594ca7e05a1cbe0b37a428f7b57778f\javax.xml.soap-api-1.4.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.projectreactor\reactor-core\3.1.2.RELEASE\a8c52bc4c2b7e1f13df325545da1360d24997e7\reactor-core-3.1.2.RELEASE.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.1\1b1c911686eb40179219466e6a59b634b9d7a748\reactive-streams-1.0.1.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler-proxy\4.1.17.Final\9330ee60c4e48ca60aac89b7bc5ec2567e84f28e\netty-handler-proxy-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec-http\4.1.17.Final\251d7edcb897122b9b23f24ff793cd0739056b9e\netty-codec-http-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.17.Final\18c40ffb61a1d1979eca024087070762fdc4664a\netty-handler-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.17.Final\9bf36b93feeb6fef773b87bd431211cad094e40f\netty-transport-native-epoll-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.tomcat\tomcat-annotations-api\8.5.23\aaf17df9fe0240e9e9d5375d24d5f177174b73d9\tomcat-annotations-api-8.5.23.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-http\9.4.7.v20170914\44a0adb69ff6131129df34d43b28e196c8ce0a90\jetty-http-9.4.7.v20170914.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-io\9.4.7.v20170914\a51742105ec2665f5ad80c17c784b388cb855329\jetty-io-9.4.7.v20170914.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jboss.logging\jboss-logging\3.2.1.Final\fedf11b3d4665a434b554a5891fe7f208f029f45\jboss-logging-3.2.1.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jboss.xnio\xnio-nio\3.3.8.Final\8dafaf230666e526c53e544ab6a9d6ecfcbab4ee\xnio-nio-3.3.8.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jboss.xnio\xnio-api\3.3.8.Final\7942ba8330c91a12006c912e040d25a77a58c525\xnio-api-3.3.8.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore-nio\4.4.6\4bafcb5aacb1abc193698a13ae99394e09a25101\httpcore-nio-4.4.6.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.6\e3fd8ced1f52c7574af952e2e6da0df8df08eb82\httpcore-4.4.6.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.2\83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a\commons-io-2.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.synchronoss.cloud\nio-stream-storage\1.1.3\986dba5f6e5eed20f0dba6ddc8e8a64a9ebdc2f3\nio-stream-storage-1.1.3.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.rometools\rome-utils\1.9.0\9f2291327c641cd78d3111d50e9b03022f6c1090\rome-utils-1.9.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.16\3a6274f658487d5bfff9af3862beff6da1e7fd52\slf4j-api-1.7.16.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.codehaus.woodstox\stax2-api\4.0.0\6fa8b05f7587a3cb819d223ee0b0de0c126e3dd1\stax2-api-4.0.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.9.0\7c10d545325e3a6e72e06381afe469fd40eb701\jackson-annotations-2.9.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.9.2\aed20e50152a2f19adc1995c8d8f307c7efa414d\jackson-core-2.9.2.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.5.0\200fb936907fbab5e521d148026f6033d4aa539e\protobuf-java-3.5.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jdom\jdom2\2.0.6\6f14738ec2e9dd0011e343717fa624a10f8aab64\jdom2-2.0.6.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec-socks\4.1.17.Final\a159bf1f3d5019e0d561c92fbbec8400967471fa\netty-codec-socks-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.17.Final\1d00f56dc9e55203a4bde5aae3d0828fdeb818e7\netty-codec-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.17.Final\22dc2c20c2f3143abd8f03bee7c0a270dddc567d\netty-transport-native-unix-common-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.17.Final\9585776b0a8153182412b5d5366061ff486914c1\netty-transport-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.17.Final\fdd68fb3defd7059a7392b9395ee941ef9bacc25\netty-buffer-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.17.Final\8f386c80821e200f542da282ae1d3cde5cad8368\netty-resolver-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.17.Final\581c8ee239e4dc0976c2405d155f475538325098\netty-common-4.1.17.Final.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.jetty\jetty-util\9.4.7.v20170914\771efdf5983c174d6d9c58892108c1c2d018404a\jetty-util-9.4.7.v20170914.jar -Xskip-runtime-version-check" />
+              </CompilerSettings>
+            </option>
+            <option name="k2jsCompilerArguments">
+              <K2JSCompilerArguments />
+            </option>
+            <option name="k2jvmCompilerArguments">
+              <K2JVMCompilerArguments>
+                <option name="noStdlib" value="true" />
+                <option name="noReflect" value="true" />
+                <option name="moduleName" value="spring-web" />
+                <option name="jvmTarget" value="1.8" />
+                <option name="addCompilerBuiltIns" value="true" />
+                <option name="loadBuiltInsFromDependencies" value="true" />
+              </K2JVMCompilerArguments>
+            </option>
+            <option name="_commonCompilerArguments">
+              <DummyImpl>
+                <option name="pluginClasspaths">
+                  <array />
+                </option>
+                <option name="coroutinesWarn" value="true" />
+                <option name="pluginOptions">
+                  <array />
+                </option>
+              </DummyImpl>
+            </option>
+          </KotlinCompilerInfo>
+        </option>
+        <option name="useProjectSettings" value="false" />
+        <option name="versionInfo">
+          <KotlinVersionInfo>
+            <option name="apiLevel" value="1.1" />
+            <option name="languageLevel" value="1.1" />
+            <option name="targetPlatformName" value="JVM 1.8" />
+          </KotlinVersionInfo>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/build" />
+    <output-test url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/build" />
+    <exclude-output />
+    <content url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web">
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/test/groovy" isTestSource="true" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-web/.gradle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-beans" scope="PROVIDED" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="spring-core" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-jcl" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-aop" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-context" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-expression" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-oxm" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-beans" scope="RUNTIME" />
+    <orderEntry type="module" module-name="spring-core" scope="RUNTIME" />
+    <orderEntry type="module" module-name="spring-jcl" scope="RUNTIME" />
+    <orderEntry type="module" module-name="spring-beans" scope="TEST" />
+    <orderEntry type="module" module-name="spring-core" scope="TEST" />
+    <orderEntry type="module" module-name="spring-jcl" scope="TEST" />
+    <orderEntry type="module" module-name="spring-jcl_test" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="spring-instrument_test" scope="TEST" production-on-test="" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.servlet.jsp:javax.servlet.jsp-api:2.3.2-b02" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.el:javax.el-api:3.0.1-b04" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.faces:javax.faces-api:2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.json.bind:javax.json.bind-api:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.mail:javax.mail-api:1.6.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.xml.ws:jaxws-api:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.xml.bind:jaxb-api:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex:rxjava-reactive-streams:1.2.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex:rxjava:1.3.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-all:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.projectreactor.ipc:reactor-netty:0.7.2.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.5.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-servlet:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-security:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-server:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.undertow:undertow-core:1.4.21.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.squareup.okhttp3:okhttp:3.9.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpclient:4.5.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-fileupload:commons-fileupload:1.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.synchronoss.cloud:nio-multipart-parser:1.1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.woodstox:woodstox-core:5.0.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml:aalto-xml:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.protobuf:protobuf-java-util:3.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.googlecode.protobuf-java-format:protobuf-java-format:1.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.rometools:rome:1.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.caucho:hessian:4.0.51" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.codehaus.groovy:groovy-all:2.4.13" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.1.61" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.61" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.xml.soap:javax.xml.soap-api:1.4.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.projectreactor:reactor-core:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.reactivestreams:reactive-streams:1.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-handler-proxy:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-codec-http:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-handler:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-transport-native-epoll:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat:tomcat-annotations-api:8.5.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-http:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-io:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jboss.logging:jboss-logging:3.2.1.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jboss.xnio:xnio-nio:3.3.8.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jboss.xnio:xnio-api:3.3.8.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.squareup.okio:okio:1.13.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore:4.4.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-io:commons-io:2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.synchronoss.cloud:nio-stream-storage:1.1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.rometools:rome-utils:1.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.codehaus.woodstox:stax2-api:4.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.protobuf:protobuf-java:3.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava:19.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jdom:jdom2:2.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-codec-socks:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-codec:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-transport:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-buffer:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-resolver:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.netty:netty-common:4.1.17.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.eclipse.jetty:jetty-util:9.4.7.v20170914" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: spring-cglib-repack-3.2.5">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: spring-objenesis-repack-2.6">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: spring-cglib-repack-3.2.5">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library name="Gradle: spring-objenesis-repack-2.6">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:mockwebserver:3.9.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:2.12.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.nhaarman:mockito-kotlin:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-all:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.xmlunit:xmlunit-matchers:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.projectreactor:reactor-test:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.taglibs:taglibs-standard-jstlel:1.2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-joda:2.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.tomcat:tomcat-util:8.5.23" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.5.23" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-servlet:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-security:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-server:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.1.61" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.skyscreamer:jsonassert:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.7.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.7.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.xmlunit:xmlunit-core:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.projectreactor:reactor-core:3.1.2.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.taglibs:taglibs-standard-impl:1.2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: joda-time:joda-time:2.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.23" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.tomcat:tomcat-annotations-api:8.5.23" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-http:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-io:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:3.9.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.50" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.61" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.reactivestreams:reactive-streams:1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.eclipse.jetty:jetty-util:9.4.7.v20170914" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:1.13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-core:2.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.sun.mail:javax.mail:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.sun.xml.bind:jaxb-core:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.sun.xml.bind:jaxb-impl:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.json:javax.json-api:1.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.johnzon:johnzon-jsonb:1.1.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-api:2.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.johnzon:johnzon-mapper:1.1.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.johnzon:johnzon-core:1.1.5" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: spring-cglib-repack-3.2.5">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: spring-objenesis-repack-2.6">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/groovy/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-jcl/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/groovy/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-expression/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-expression/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-expression/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-instrument/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-oxm/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-oxm/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-oxm/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

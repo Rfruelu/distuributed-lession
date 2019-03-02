@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-aspects" external.linked.project.path="E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects" external.root.project.path="E:/spring/spring-framework-5.0.2.RELEASE" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="1">
+        <option name="compilerInfo">
+          <KotlinCompilerInfo>
+            <option name="compilerSettings">
+              <CompilerSettings>
+                <option name="additionalArguments" value="-d E:\spring\spring-framework-5.0.2.RELEASE\spring-aspects\build\classes\kotlin\main -cp C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjweaver\1.8.13\ad94df2a28d658a40dc27bbaff6a1ce5fbf04e9b\aspectjweaver-1.8.13.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-context\build\libs\spring-context-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-aop\build\libs\spring-aop-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-beans\build\libs\spring-beans-5.0.2.RELEASE.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.cache\cache-api\1.0.0\2b57384801243f387f1a2e7ab8066ac79c2a91d3\cache-api-1.0.0.jar;C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.transaction\javax.transaction-api\1.2\d81aff979d603edd90dcd8db2abc1f4ce6479e3e\javax.transaction-api-1.2.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-expression\build\libs\spring-expression-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-core-5.0.2.RELEASE.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-cglib-repack-3.2.5.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-core\build\libs\spring-objenesis-repack-2.6.jar;E:\spring\spring-framework-5.0.2.RELEASE\spring-jcl\build\libs\spring-jcl-5.0.2.RELEASE.jar -Xskip-runtime-version-check" />
+              </CompilerSettings>
+            </option>
+            <option name="k2jsCompilerArguments">
+              <K2JSCompilerArguments />
+            </option>
+            <option name="k2jvmCompilerArguments">
+              <K2JVMCompilerArguments>
+                <option name="noStdlib" value="true" />
+                <option name="noReflect" value="true" />
+                <option name="moduleName" value="spring-aspects" />
+                <option name="jvmTarget" value="1.8" />
+                <option name="addCompilerBuiltIns" value="true" />
+                <option name="loadBuiltInsFromDependencies" value="true" />
+              </K2JVMCompilerArguments>
+            </option>
+            <option name="_commonCompilerArguments">
+              <DummyImpl>
+                <option name="pluginClasspaths">
+                  <array />
+                </option>
+                <option name="coroutinesWarn" value="true" />
+                <option name="pluginOptions">
+                  <array />
+                </option>
+              </DummyImpl>
+            </option>
+          </KotlinCompilerInfo>
+        </option>
+        <option name="useProjectSettings" value="false" />
+        <option name="versionInfo">
+          <KotlinVersionInfo>
+            <option name="apiLevel" value="1.1" />
+            <option name="languageLevel" value="1.1" />
+            <option name="targetPlatformName" value="JVM 1.8" />
+          </KotlinVersionInfo>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/build" />
+    <output-test url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/build" />
+    <exclude-output />
+    <content url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects">
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aspects/.gradle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-aop" scope="PROVIDED" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="spring-beans" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-core" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-jcl" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-context" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-expression" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-context-support" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-orm" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-jdbc" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-tx" scope="PROVIDED" />
+    <orderEntry type="module" module-name="spring-core" scope="TEST" />
+    <orderEntry type="module" module-name="spring-jcl" scope="TEST" />
+    <orderEntry type="module" module-name="spring-test" scope="TEST" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.aspectj:aspectjweaver:1.8.13" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.cache:cache-api:1.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.transaction:javax.transaction-api:1.2" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: spring-cglib-repack-3.2.5">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Gradle: spring-objenesis-repack-2.6">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.aspectj:aspectjweaver:1.8.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.aspectj:aspectjweaver:1.8.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:2.12.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.nhaarman:mockito-kotlin:1.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-all:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.xmlunit:xmlunit-matchers:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.mail:javax.mail-api:1.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.7.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.7.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.xmlunit:xmlunit-core:2.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-core:2.10.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.logging.log4j:log4j-api:2.10.0" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: spring-cglib-repack-3.2.5">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: spring-objenesis-repack-2.6">
+        <CLASSES>
+          <root url="jar://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-aop/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/classes/groovy/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-beans/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-core/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/classes/groovy/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context-support/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context-support/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-context-support/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-orm/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-orm/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-orm/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-tx/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-tx/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-tx/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-test/build/classes/java/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-test/build/classes/kotlin/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/spring/spring-framework-5.0.2.RELEASE/spring-test/build/resources/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

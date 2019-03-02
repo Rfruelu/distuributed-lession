@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-driver-mysql/demo-driver-mysql.iml" filepath="$PROJECT_DIR$/demo-driver-mysql/demo-driver-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-oracle/demo-oracle.iml" filepath="$PROJECT_DIR$/demo-oracle/demo-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-spi/demo-spi.iml" filepath="$PROJECT_DIR$/demo-spi/demo-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-client/dubbo-client.iml" filepath="$PROJECT_DIR$/dubbo-client/dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-server/dubbo-server.iml" filepath="$PROJECT_DIR$/dubbo-server/dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-server-api/dubbo-server-api.iml" filepath="$PROJECT_DIR$/dubbo-server-api/dubbo-server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-demo.iml" filepath="$PROJECT_DIR$/soap-demo.iml" />
+    </modules>
+  </component>
+</project>

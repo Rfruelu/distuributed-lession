@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans        http://www.springframework.org/schema/beans/spring-beans.xsd        http://code.alibabatech.com/schema/dubbo        http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--提供方信息-->
+    <dubbo:application name="dubbo-server"  owner="lujia" />
+
+    <!--zk注册中心地址-->
+    <dubbo:registry id="zk" address="zookeeper://192.168.128.128:2181"/>
+
+    <!--协议信息-->
+    <dubbo:protocol port="20880" name="dubbo"/>
+
+    <dubbo:protocol port="8080" name="hessian"/>
+
+    <dubbo:service interface="com.lujia.soap.dubbo.service.HelloService"
+                   ref="myHelloService"
+                   protocol="dubbo,hessian"
+                   registry="zk"/>
+
+    <dubbo:service interface="com.lujia.soap.dubbo.service.DemoProtocolService"
+                   ref="demoProtocolService"
+                   protocol="hessian"
+                   registry="zk"
+                   />
+    <bean id="myHelloService" class="com.lujia.soap.dubbo.serviceImpl.MyHelloServiceImpl"/>
+
+    <bean id="demoProtocolService" class="com.lujia.soap.dubbo.serviceImpl.HessianProtocolServiceImpl"/>
+</beans>

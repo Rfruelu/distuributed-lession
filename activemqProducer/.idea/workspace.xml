@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6c90391-4816-4213-8e79-b9ec6c7e3014" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ActiveMqProducer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lujia/ActiveMqProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQConnectionFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQConnectionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6072">
+              <caret line="330" column="40" lean-forward="false" selection-start-line="330" selection-start-column="40" selection-end-line="330" selection-end-column="40" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#8406#8407#0" expanded="false" />
+                <element signature="e#8446#8447#0" expanded="false" />
+                <element signature="e#8504#8505#0" expanded="false" />
+                <element signature="e#8546#8547#0" expanded="false" />
+                <element signature="e#8601#8602#0" expanded="false" />
+                <element signature="e#8651#8652#0" expanded="false" />
+                <element signature="e#11312#11313#0" expanded="false" />
+                <element signature="e#11352#11353#0" expanded="false" />
+                <element signature="e#18162#18163#0" expanded="false" />
+                <element signature="e#18232#18233#0" expanded="false" />
+                <element signature="e#20723#20724#0" expanded="false" />
+                <element signature="e#20754#20755#0" expanded="false" />
+                <element signature="e#21021#21022#0" expanded="false" />
+                <element signature="e#21061#21062#0" expanded="false" />
+                <element signature="e#21105#21106#0" expanded="false" />
+                <element signature="e#21145#21146#0" expanded="false" />
+                <element signature="e#21520#21521#0" expanded="false" />
+                <element signature="e#21578#21579#0" expanded="false" />
+                <element signature="e#21631#21632#0" expanded="false" />
+                <element signature="e#21680#21681#0" expanded="false" />
+                <element signature="e#22047#22048#0" expanded="false" />
+                <element signature="e#22094#22095#0" expanded="false" />
+                <element signature="e#22419#22420#0" expanded="false" />
+                <element signature="e#22450#22451#0" expanded="false" />
+                <element signature="e#22590#22591#0" expanded="false" />
+                <element signature="e#22630#22631#0" expanded="false" />
+                <element signature="e#22687#22688#0" expanded="false" />
+                <element signature="e#22724#22725#0" expanded="false" />
+                <element signature="e#22981#22982#0" expanded="false" />
+                <element signature="e#23033#23034#0" expanded="false" />
+                <element signature="e#23072#23073#0" expanded="false" />
+                <element signature="e#23107#23108#0" expanded="false" />
+                <element signature="e#23164#23165#0" expanded="false" />
+                <element signature="e#23205#23206#0" expanded="false" />
+                <element signature="e#23876#23877#0" expanded="false" />
+                <element signature="e#23924#23925#0" expanded="false" />
+                <element signature="e#23984#23985#0" expanded="false" />
+                <element signature="e#24027#24028#0" expanded="false" />
+                <element signature="e#24283#24284#0" expanded="false" />
+                <element signature="e#24325#24326#0" expanded="false" />
+                <element signature="e#24497#24498#0" expanded="false" />
+                <element signature="e#24549#24550#0" expanded="false" />
+                <element signature="e#24584#24585#0" expanded="false" />
+                <element signature="e#24615#24616#0" expanded="false" />
+                <element signature="e#24752#24753#0" expanded="false" />
+                <element signature="e#24792#24793#0" expanded="false" />
+                <element signature="e#24841#24842#0" expanded="false" />
+                <element signature="e#24886#24887#0" expanded="false" />
+                <element signature="e#25312#25313#0" expanded="false" />
+                <element signature="e#25352#25353#0" expanded="false" />
+                <element signature="e#25697#25698#0" expanded="false" />
+                <element signature="e#25755#25756#0" expanded="false" />
+                <element signature="e#25808#25809#0" expanded="false" />
+                <element signature="e#25868#25869#0" expanded="false" />
+                <element signature="e#26217#26218#0" expanded="false" />
+                <element signature="e#26264#26265#0" expanded="false" />
+                <element signature="e#26601#26602#0" expanded="false" />
+                <element signature="e#26635#26636#0" expanded="false" />
+                <element signature="e#26735#26736#0" expanded="false" />
+                <element signature="e#26769#26770#0" expanded="false" />
+                <element signature="e#26903#26904#0" expanded="false" />
+                <element signature="e#26949#26950#0" expanded="false" />
+                <element signature="e#27038#27039#0" expanded="false" />
+                <element signature="e#27074#27075#0" expanded="false" />
+                <element signature="e#27202#27203#0" expanded="false" />
+                <element signature="e#27252#27253#0" expanded="false" />
+                <element signature="e#27363#27364#0" expanded="false" />
+                <element signature="e#27415#27416#0" expanded="false" />
+                <element signature="e#27937#27938#0" expanded="false" />
+                <element signature="e#27983#27984#0" expanded="false" />
+                <element signature="e#33079#33080#0" expanded="false" />
+                <element signature="e#33116#33117#0" expanded="false" />
+                <element signature="e#33253#33254#0" expanded="false" />
+                <element signature="e#33305#33306#0" expanded="false" />
+                <element signature="e#33365#33366#0" expanded="false" />
+                <element signature="e#33421#33422#0" expanded="false" />
+                <element signature="e#33975#33976#0" expanded="false" />
+                <element signature="e#34011#34012#0" expanded="false" />
+                <element signature="e#34849#34850#0" expanded="false" />
+                <element signature="e#34899#34900#0" expanded="false" />
+                <element signature="e#34992#34993#0" expanded="false" />
+                <element signature="e#35027#35028#0" expanded="false" />
+                <element signature="e#35342#35343#0" expanded="false" />
+                <element signature="e#35390#35391#0" expanded="false" />
+                <element signature="e#35498#35499#0" expanded="false" />
+                <element signature="e#35539#35540#0" expanded="false" />
+                <element signature="e#35996#35997#0" expanded="false" />
+                <element signature="e#36056#36057#0" expanded="false" />
+                <element signature="e#36166#36167#0" expanded="false" />
+                <element signature="e#36208#36209#0" expanded="false" />
+                <element signature="e#36361#36362#0" expanded="false" />
+                <element signature="e#36423#36424#0" expanded="false" />
+                <element signature="e#36756#36757#0" expanded="false" />
+                <element signature="e#36805#36806#0" expanded="false" />
+                <element signature="e#36855#36856#0" expanded="false" />
+                <element signature="e#36901#36902#0" expanded="false" />
+                <element signature="e#37347#37348#0" expanded="false" />
+                <element signature="e#37384#37385#0" expanded="false" />
+                <element signature="e#37634#37635#0" expanded="false" />
+                <element signature="e#37686#37687#0" expanded="false" />
+                <element signature="e#38117#38118#0" expanded="false" />
+                <element signature="e#38175#38176#0" expanded="false" />
+                <element signature="e#38347#38348#0" expanded="false" />
+                <element signature="e#38407#38408#0" expanded="false" />
+                <element signature="e#39027#39028#0" expanded="false" />
+                <element signature="e#39079#39080#0" expanded="false" />
+                <element signature="e#39203#39204#0" expanded="false" />
+                <element signature="e#39261#39262#0" expanded="false" />
+                <element signature="e#39316#39317#0" expanded="false" />
+                <element signature="e#39357#39358#0" expanded="false" />
+                <element signature="e#39555#39556#0" expanded="false" />
+                <element signature="e#39613#39614#0" expanded="false" />
+                <element signature="e#40417#40418#0" expanded="false" />
+                <element signature="e#40457#40458#0" expanded="false" />
+                <element signature="e#41026#41027#0" expanded="false" />
+                <element signature="e#41066#41067#0" expanded="false" />
+                <element signature="e#41859#41860#0" expanded="false" />
+                <element signature="e#41892#41893#0" expanded="false" />
+                <element signature="e#41941#41942#0" expanded="false" />
+                <element signature="e#41985#41986#0" expanded="false" />
+                <element signature="e#42035#42036#0" expanded="false" />
+                <element signature="e#42084#42085#0" expanded="false" />
+                <element signature="e#42435#42436#0" expanded="false" />
+                <element signature="e#42480#42481#0" expanded="false" />
+                <element signature="e#42739#42740#0" expanded="false" />
+                <element signature="e#42798#42799#0" expanded="false" />
+                <element signature="e#43917#43918#0" expanded="false" />
+                <element signature="e#43963#43964#0" expanded="false" />
+                <element signature="e#44111#44112#0" expanded="false" />
+                <element signature="e#44171#44172#0" expanded="false" />
+                <element signature="e#44221#44222#0" expanded="false" />
+                <element signature="e#44269#44270#0" expanded="false" />
+                <element signature="e#44817#44818#0" expanded="false" />
+                <element signature="e#44863#44864#0" expanded="false" />
+                <element signature="e#45340#45341#0" expanded="false" />
+                <element signature="e#45380#45381#0" expanded="false" />
+                <element signature="e#45443#45444#0" expanded="false" />
+                <element signature="e#45501#45502#0" expanded="false" />
+                <element signature="e#45556#45557#0" expanded="false" />
+                <element signature="e#45596#45597#0" expanded="false" />
+                <element signature="e#45795#45796#0" expanded="false" />
+                <element signature="e#45837#45838#0" expanded="false" />
+                <element signature="e#46418#46419#0" expanded="false" />
+                <element signature="e#46473#46474#0" expanded="false" />
+                <element signature="e#46982#46983#0" expanded="false" />
+                <element signature="e#47025#47026#0" expanded="false" />
+                <element signature="e#47483#47484#0" expanded="false" />
+                <element signature="e#47532#47533#0" expanded="false" />
+                <element signature="e#48080#48081#0" expanded="false" />
+                <element signature="e#48118#48119#0" expanded="false" />
+                <element signature="e#48186#48187#0" expanded="false" />
+                <element signature="e#48240#48241#0" expanded="false" />
+                <element signature="e#48283#48284#0" expanded="false" />
+                <element signature="e#48322#48323#0" expanded="false" />
+                <element signature="e#48387#48388#0" expanded="false" />
+                <element signature="e#48443#48444#0" expanded="false" />
+                <element signature="e#48486#48487#0" expanded="false" />
+                <element signature="e#48522#48523#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransportFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/TransportFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="226" column="21" lean-forward="false" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TcpTransportFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/tcp/TcpTransportFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2182#2198#0" expanded="false" />
+                <element signature="e#5150#5151#0" expanded="false" />
+                <element signature="e#5177#5178#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQMessageProducerSupport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQMessageProducerSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4840">
+              <caret line="240" column="17" lean-forward="false" selection-start-line="240" selection-start-column="13" selection-end-line="240" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#13726#13727#0" expanded="false" />
+                <element signature="e#13760#13761#0" expanded="false" />
+                <element signature="e#13876#13877#0" expanded="false" />
+                <element signature="e#13922#13923#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQMessageProducer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQMessageProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5456">
+              <caret line="287" column="25" lean-forward="false" selection-start-line="287" selection-start-column="21" selection-end-line="287" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5990#5991#0" expanded="false" />
+                <element signature="e#6018#6019#0" expanded="false" />
+                <element signature="e#6072#6073#0" expanded="false" />
+                <element signature="e#6100#6101#0" expanded="false" />
+                <element signature="e#11849#11850#0" expanded="false" />
+                <element signature="e#11883#11884#0" expanded="false" />
+                <element signature="e#12066#12067#0" expanded="false" />
+                <element signature="e#12112#12113#0" expanded="false" />
+                <element signature="e#12235#12236#0" expanded="false" />
+                <element signature="e#12272#12273#0" expanded="false" />
+                <element signature="e#12375#12376#0" expanded="false" />
+                <element signature="e#12431#12432#0" expanded="false" />
+                <element signature="e#12574#12575#0" expanded="false" />
+                <element signature="e#12628#12629#0" expanded="false" />
+                <element signature="e#12725#12726#0" expanded="false" />
+                <element signature="e#12784#12785#0" expanded="false" />
+                <element signature="e#12892#12893#0" expanded="false" />
+                <element signature="e#12924#12925#0" expanded="false" />
+                <element signature="e#12970#12971#0" expanded="false" />
+                <element signature="e#13057#13058#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQQueueSender.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQQueueSender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2464">
+              <caret line="132" column="14" lean-forward="false" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IllegalStateException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/IllegalStateException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#1371#0" expanded="false" />
+                <element signature="e#1242#1243#0" expanded="false" />
+                <element signature="e#1282#1283#0" expanded="false" />
+                <element signature="e#1333#1334#0" expanded="false" />
+                <element signature="e#1367#1368#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JMSException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/JMSException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#2020#0" expanded="false" />
+                <element signature="e#1533#1534#0" expanded="false" />
+                <element signature="e#1565#1566#0" expanded="false" />
+                <element signature="e#1610#1611#0" expanded="false" />
+                <element signature="e#1648#1649#0" expanded="false" />
+                <element signature="e#1980#1981#0" expanded="false" />
+                <element signature="e#2016#2017#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JDK/jdk1.877/src.zip!/java/lang/Exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#4059#0" expanded="false" />
+                <element signature="e#1247#1248#0" expanded="false" />
+                <element signature="e#1270#1271#0" expanded="false" />
+                <element signature="e#1663#1664#0" expanded="false" />
+                <element signature="e#1693#1694#0" expanded="false" />
+                <element signature="e#2406#2407#0" expanded="false" />
+                <element signature="e#2443#2444#0" expanded="false" />
+                <element signature="e#3173#3174#0" expanded="false" />
+                <element signature="e#3201#3202#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemoryUsage.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/usage/MemoryUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="45" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#1188#1189#0" expanded="false" />
+                <element signature="e#1220#1221#0" expanded="false" />
+                <element signature="e#1514#1515#0" expanded="false" />
+                <element signature="e#1553#1554#0" expanded="false" />
+                <element signature="e#1592#1593#0" expanded="false" />
+                <element signature="e#1624#1625#0" expanded="false" />
+                <element signature="e#1683#1684#0" expanded="false" />
+                <element signature="e#1723#1724#0" expanded="false" />
+                <element signature="e#1797#1798#0" expanded="false" />
+                <element signature="e#1841#1842#0" expanded="false" />
+                <element signature="e#5404#5405#0" expanded="false" />
+                <element signature="e#5432#5433#0" expanded="false" />
+                <element signature="e#5476#5477#0" expanded="false" />
+                <element signature="e#5504#5505#0" expanded="false" />
+                <element signature="e#5544#5545#0" expanded="false" />
+                <element signature="e#5578#5579#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usage.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/usage/Usage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8998">
+              <caret line="472" column="19" lean-forward="false" selection-start-line="472" selection-start-column="19" selection-end-line="472" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2062#2077#0" expanded="false" />
+                <element signature="e#2303#2313#0" expanded="false" />
+                <element signature="e#4320#4321#0" expanded="false" />
+                <element signature="e#4354#4355#0" expanded="false" />
+                <element signature="e#4788#4789#0" expanded="false" />
+                <element signature="e#4827#4828#0" expanded="false" />
+                <element signature="e#4890#4891#0" expanded="false" />
+                <element signature="e#4932#4933#0" expanded="false" />
+                <element signature="e#4973#4974#0" expanded="false" />
+                <element signature="e#5012#5013#0" expanded="false" />
+                <element signature="e#10179#10497#0" expanded="false" />
+                <element signature="e#10496#10497#0" expanded="false" />
+                <element signature="e#10791#10792#0" expanded="false" />
+                <element signature="e#10818#10819#0" expanded="false" />
+                <element signature="e#12547#12548#0" expanded="false" />
+                <element signature="e#12585#12586#0" expanded="false" />
+                <element signature="e#12866#13370#0" expanded="false" />
+                <element signature="e#13369#13370#0" expanded="false" />
+                <element signature="e#13868#13869#0" expanded="false" />
+                <element signature="e#13903#13904#0" expanded="false" />
+                <element signature="e#14031#14032#0" expanded="false" />
+                <element signature="e#14069#14070#0" expanded="false" />
+                <element signature="e#14151#14152#0" expanded="false" />
+                <element signature="e#14190#14191#0" expanded="false" />
+                <element signature="e#14324#14325#0" expanded="false" />
+                <element signature="e#14370#14371#0" expanded="false" />
+                <element signature="e#14410#14411#0" expanded="false" />
+                <element signature="e#14442#14443#0" expanded="false" />
+                <element signature="e#14470#14471#0" expanded="false" />
+                <element signature="e#14499#14500#0" expanded="false" />
+                <element signature="e#14538#14539#0" expanded="false" />
+                <element signature="e#14574#14575#0" expanded="false" />
+                <element signature="e#14634#14635#0" expanded="false" />
+                <element signature="e#14674#14675#0" expanded="false" />
+                <element signature="e#14721#14722#0" expanded="false" />
+                <element signature="e#14752#14753#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQSession.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40634">
+              <caret line="1956" column="0" lean-forward="false" selection-start-line="1956" selection-start-column="0" selection-end-line="1956" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#9875#9900#0" expanded="false" />
+                <element signature="e#10006#10031#0" expanded="false" />
+                <element signature="e#12868#12869#0" expanded="false" />
+                <element signature="e#12909#12910#0" expanded="false" />
+                <element signature="e#13068#13069#0" expanded="false" />
+                <element signature="e#13096#13097#0" expanded="false" />
+                <element signature="e#13257#13258#0" expanded="false" />
+                <element signature="e#13285#13286#0" expanded="false" />
+                <element signature="e#29316#29501#0" expanded="false" />
+                <element signature="e#29500#29501#0" expanded="false" />
+                <element signature="e#29723#29884#0" expanded="false" />
+                <element signature="e#29883#29884#0" expanded="false" />
+                <element signature="e#32319#32320#0" expanded="false" />
+                <element signature="e#32348#32349#0" expanded="false" />
+                <element signature="e#43728#45856#0" expanded="false" />
+                <element signature="e#45855#45856#0" expanded="false" />
+                <element signature="e#84495#84496#0" expanded="false" />
+                <element signature="e#84537#84538#0" expanded="false" />
+                <element signature="e#89577#89578#0" expanded="false" />
+                <element signature="e#89632#89633#0" expanded="false" />
+                <element signature="e#90119#90120#0" expanded="false" />
+                <element signature="e#90196#90197#0" expanded="false" />
+                <element signature="e#90386#90387#0" expanded="false" />
+                <element signature="e#90456#90457#0" expanded="false" />
+                <element signature="e#90650#90651#0" expanded="false" />
+                <element signature="e#90723#90724#0" expanded="false" />
+                <element signature="e#90770#90771#0" expanded="false" />
+                <element signature="e#90854#90855#0" expanded="false" />
+                <element signature="e#91037#91038#0" expanded="false" />
+                <element signature="e#91076#91077#0" expanded="false" />
+                <element signature="e#91276#91277#0" expanded="false" />
+                <element signature="e#91332#91333#0" expanded="false" />
+                <element signature="e#92247#92248#0" expanded="false" />
+                <element signature="e#92309#92310#0" expanded="false" />
+                <element signature="e#92873#92874#0" expanded="false" />
+                <element signature="e#92909#92910#0" expanded="false" />
+                <element signature="e#92949#92950#0" expanded="false" />
+                <element signature="e#92985#92986#0" expanded="false" />
+                <element signature="e#93044#93045#0" expanded="false" />
+                <element signature="e#93094#93095#0" expanded="false" />
+                <element signature="e#93206#93207#0" expanded="false" />
+                <element signature="e#93249#93250#0" expanded="false" />
+                <element signature="e#93520#93521#0" expanded="false" />
+                <element signature="e#93554#93555#0" expanded="false" />
+                <element signature="e#93603#93604#0" expanded="false" />
+                <element signature="e#93636#93637#0" expanded="false" />
+                <element signature="e#93913#93914#0" expanded="false" />
+                <element signature="e#93959#93960#0" expanded="false" />
+                <element signature="e#94016#94017#0" expanded="false" />
+                <element signature="e#94057#94058#0" expanded="false" />
+                <element signature="e#94420#94421#0" expanded="false" />
+                <element signature="e#94475#94476#0" expanded="false" />
+                <element signature="e#96962#96963#0" expanded="false" />
+                <element signature="e#97008#97009#0" expanded="false" />
+                <element signature="e#97534#97535#0" expanded="false" />
+                <element signature="e#97580#97581#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveMQConnection.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26950">
+              <caret line="1386" column="48" lean-forward="false" selection-start-line="1386" selection-start-column="41" selection-end-line="1386" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5536#5586#0" expanded="false" />
+                <element signature="e#7888#7905#0" expanded="false" />
+                <element signature="e#8022#8050#0" expanded="false" />
+                <element signature="e#8157#8176#0" expanded="false" />
+                <element signature="e#8332#8364#0" expanded="false" />
+                <element signature="e#8470#8507#0" expanded="false" />
+                <element signature="e#10306#10314#0" expanded="false" />
+                <element signature="e#11060#11445#0" expanded="false" />
+                <element signature="e#11444#11445#0" expanded="false" />
+                <element signature="e#12203#12204#0" expanded="false" />
+                <element signature="e#12250#12251#0" expanded="false" />
+                <element signature="e#12301#12302#0" expanded="false" />
+                <element signature="e#12348#12349#0" expanded="false" />
+                <element signature="e#13777#13778#0" expanded="false" />
+                <element signature="e#13805#13806#0" expanded="false" />
+                <element signature="e#38075#38091#0" expanded="false" />
+                <element signature="e#38560#38561#0" expanded="false" />
+                <element signature="e#38596#38597#0" expanded="false" />
+                <element signature="e#38693#38694#0" expanded="false" />
+                <element signature="e#38728#38729#0" expanded="false" />
+                <element signature="e#38850#38851#0" expanded="false" />
+                <element signature="e#38886#38887#0" expanded="false" />
+                <element signature="e#39003#39004#0" expanded="false" />
+                <element signature="e#39047#39048#0" expanded="false" />
+                <element signature="e#39163#39164#0" expanded="false" />
+                <element signature="e#39200#39201#0" expanded="false" />
+                <element signature="e#39457#39458#0" expanded="false" />
+                <element signature="e#39509#39510#0" expanded="false" />
+                <element signature="e#39571#39572#0" expanded="false" />
+                <element signature="e#39603#39604#0" expanded="false" />
+                <element signature="e#40020#40021#0" expanded="false" />
+                <element signature="e#40069#40070#0" expanded="false" />
+                <element signature="e#40505#40506#0" expanded="false" />
+                <element signature="e#40552#40553#0" expanded="false" />
+                <element signature="e#40935#40936#0" expanded="false" />
+                <element signature="e#40970#40971#0" expanded="false" />
+                <element signature="e#41285#41286#0" expanded="false" />
+                <element signature="e#41333#41334#0" expanded="false" />
+                <element signature="e#41428#41429#0" expanded="false" />
+                <element signature="e#41460#41461#0" expanded="false" />
+                <element signature="e#41509#41510#0" expanded="false" />
+                <element signature="e#41554#41555#0" expanded="false" />
+                <element signature="e#41986#41987#0" expanded="false" />
+                <element signature="e#42032#42033#0" expanded="false" />
+                <element signature="e#42481#42482#0" expanded="false" />
+                <element signature="e#42521#42522#0" expanded="false" />
+                <element signature="e#42866#42867#0" expanded="false" />
+                <element signature="e#42924#42925#0" expanded="false" />
+                <element signature="e#43128#43129#0" expanded="false" />
+                <element signature="e#43185#43186#0" expanded="false" />
+                <element signature="e#43374#43375#0" expanded="false" />
+                <element signature="e#43419#43420#0" expanded="false" />
+                <element signature="e#44207#44208#0" expanded="false" />
+                <element signature="e#44241#44242#0" expanded="false" />
+                <element signature="e#44518#44519#0" expanded="false" />
+                <element signature="e#44564#44565#0" expanded="false" />
+                <element signature="e#44651#44652#0" expanded="false" />
+                <element signature="e#44696#44697#0" expanded="false" />
+                <element signature="e#44820#44821#0" expanded="false" />
+                <element signature="e#44871#44872#0" expanded="false" />
+                <element signature="e#53797#53813#0" expanded="false" />
+                <element signature="e#57176#59318#0" expanded="false" />
+                <element signature="e#59317#59318#0" expanded="false" />
+                <element signature="e#61886#61887#0" expanded="false" />
+                <element signature="e#61914#61915#0" expanded="false" />
+                <element signature="e#63905#63906#0" expanded="false" />
+                <element signature="e#63948#63949#0" expanded="false" />
+                <element signature="e#64194#64195#0" expanded="false" />
+                <element signature="e#64229#64230#0" expanded="false" />
+                <element signature="e#64597#64598#0" expanded="false" />
+                <element signature="e#64645#64646#0" expanded="false" />
+                <element signature="e#64751#64752#0" expanded="false" />
+                <element signature="e#64793#64794#0" expanded="false" />
+                <element signature="e#64965#64966#0" expanded="false" />
+                <element signature="e#65017#65018#0" expanded="false" />
+                <element signature="e#65128#65129#0" expanded="false" />
+                <element signature="e#65180#65181#0" expanded="false" />
+                <element signature="e#65820#65821#0" expanded="false" />
+                <element signature="e#65864#65865#0" expanded="false" />
+                <element signature="e#68684#68685#0" expanded="false" />
+                <element signature="e#68717#68718#0" expanded="false" />
+                <element signature="e#69800#69801#0" expanded="false" />
+                <element signature="e#69841#69842#0" expanded="false" />
+                <element signature="e#70298#70299#0" expanded="false" />
+                <element signature="e#70358#70359#0" expanded="false" />
+                <element signature="e#70468#70469#0" expanded="false" />
+                <element signature="e#70510#70511#0" expanded="false" />
+                <element signature="e#70794#70795#0" expanded="false" />
+                <element signature="e#70856#70857#0" expanded="false" />
+                <element signature="e#71189#71190#0" expanded="false" />
+                <element signature="e#71238#71239#0" expanded="false" />
+                <element signature="e#71298#71299#0" expanded="false" />
+                <element signature="e#71356#71357#0" expanded="false" />
+                <element signature="e#72195#72196#0" expanded="false" />
+                <element signature="e#72229#72230#0" expanded="false" />
+                <element signature="e#72363#72364#0" expanded="false" />
+                <element signature="e#72409#72410#0" expanded="false" />
+                <element signature="e#72498#72499#0" expanded="false" />
+                <element signature="e#72534#72535#0" expanded="false" />
+                <element signature="e#72662#72663#0" expanded="false" />
+                <element signature="e#72712#72713#0" expanded="false" />
+                <element signature="e#72816#72817#0" expanded="false" />
+                <element signature="e#72850#72851#0" expanded="false" />
+                <element signature="e#73221#73222#0" expanded="false" />
+                <element signature="e#73253#73254#0" expanded="false" />
+                <element signature="e#73449#73450#0" expanded="false" />
+                <element signature="e#73493#73494#0" expanded="false" />
+                <element signature="e#73694#73695#0" expanded="false" />
+                <element signature="e#73740#73741#0" expanded="false" />
+                <element signature="e#73799#73800#0" expanded="false" />
+                <element signature="e#73857#73858#0" expanded="false" />
+                <element signature="e#76736#76966#0" expanded="false" />
+                <element signature="e#76965#76966#0" expanded="false" />
+                <element signature="e#78396#78397#0" expanded="false" />
+                <element signature="e#78450#78451#0" expanded="false" />
+                <element signature="e#79179#79405#0" expanded="false" />
+                <element signature="e#79404#79405#0" expanded="false" />
+                <element signature="e#80076#80284#0" expanded="false" />
+                <element signature="e#80283#80284#0" expanded="false" />
+                <element signature="e#80608#81362#0" expanded="false" />
+                <element signature="e#81361#81362#0" expanded="false" />
+                <element signature="e#85011#85012#0" expanded="false" />
+                <element signature="e#85061#85062#0" expanded="false" />
+                <element signature="e#85102#85103#0" expanded="false" />
+                <element signature="e#85139#85140#0" expanded="false" />
+                <element signature="e#85276#85277#0" expanded="false" />
+                <element signature="e#85328#85329#0" expanded="false" />
+                <element signature="e#85817#85818#0" expanded="false" />
+                <element signature="e#85853#85854#0" expanded="false" />
+                <element signature="e#86691#86692#0" expanded="false" />
+                <element signature="e#86741#86742#0" expanded="false" />
+                <element signature="e#86801#86802#0" expanded="false" />
+                <element signature="e#86857#86858#0" expanded="false" />
+                <element signature="e#91811#91812#0" expanded="false" />
+                <element signature="e#91869#91870#0" expanded="false" />
+                <element signature="e#92123#92124#0" expanded="false" />
+                <element signature="e#92170#92171#0" expanded="false" />
+                <element signature="e#92209#92210#0" expanded="false" />
+                <element signature="e#92253#92254#0" expanded="false" />
+                <element signature="e#92295#92296#0" expanded="false" />
+                <element signature="e#92336#92337#0" expanded="false" />
+                <element signature="e#92401#92402#0" expanded="false" />
+                <element signature="e#92461#92462#0" expanded="false" />
+                <element signature="e#92510#92511#0" expanded="false" />
+                <element signature="e#92567#92568#0" expanded="false" />
+                <element signature="e#92807#92808#0" expanded="false" />
+                <element signature="e#92867#92868#0" expanded="false" />
+                <element signature="e#93252#93253#0" expanded="false" />
+                <element signature="e#93292#93293#0" expanded="false" />
+                <element signature="e#95875#95876#0" expanded="false" />
+                <element signature="e#95934#95935#0" expanded="false" />
+                <element signature="e#96865#96866#0" expanded="false" />
+                <element signature="e#96901#96902#0" expanded="false" />
+                <element signature="e#96970#96971#0" expanded="false" />
+                <element signature="e#97001#97002#0" expanded="false" />
+                <element signature="e#97100#97101#0" expanded="false" />
+                <element signature="e#97146#97147#0" expanded="false" />
+                <element signature="e#97294#97295#0" expanded="false" />
+                <element signature="e#97354#97355#0" expanded="false" />
+                <element signature="e#97404#97405#0" expanded="false" />
+                <element signature="e#97450#97451#0" expanded="false" />
+                <element signature="e#97647#97648#0" expanded="false" />
+                <element signature="e#97691#97692#0" expanded="false" />
+                <element signature="e#97879#97880#0" expanded="false" />
+                <element signature="e#97922#97923#0" expanded="false" />
+                <element signature="e#100232#100233#0" expanded="false" />
+                <element signature="e#100274#100275#0" expanded="false" />
+                <element signature="e#100315#100316#0" expanded="false" />
+                <element signature="e#100355#100356#0" expanded="false" />
+                <element signature="e#100418#100419#0" expanded="false" />
+                <element signature="e#100476#100477#0" expanded="false" />
+                <element signature="e#100790#100791#0" expanded="false" />
+                <element signature="e#100832#100833#0" expanded="false" />
+                <element signature="e#101413#101414#0" expanded="false" />
+                <element signature="e#101468#101469#0" expanded="false" />
+                <element signature="e#102095#102096#0" expanded="false" />
+                <element signature="e#102144#102145#0" expanded="false" />
+                <element signature="e#102692#102693#0" expanded="false" />
+                <element signature="e#102730#102731#0" expanded="false" />
+                <element signature="e#102798#102799#0" expanded="false" />
+                <element signature="e#102852#102853#0" expanded="false" />
+                <element signature="e#102895#102896#0" expanded="false" />
+                <element signature="e#102934#102935#0" expanded="false" />
+                <element signature="e#102999#103000#0" expanded="false" />
+                <element signature="e#103055#103056#0" expanded="false" />
+                <element signature="e#103101#103102#0" expanded="false" />
+                <element signature="e#103143#103144#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/Transport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseCorrelator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/ResponseCorrelator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1852#1853#0" expanded="false" />
+                <element signature="e#1906#1907#0" expanded="false" />
+                <element signature="e#5498#5499#0" expanded="false" />
+                <element signature="e#5538#5539#0" expanded="false" />
+                <element signature="e#5570#5571#0" expanded="false" />
+                <element signature="e#5608#5609#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataStructure.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/DataStructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WireFormatNegotiator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/WireFormatNegotiator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1562">
+              <caret line="98" column="32" lean-forward="false" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6407#6408#0" expanded="false" />
+                <element signature="e#6445#6446#0" expanded="false" />
+                <element signature="e#6668#6669#0" expanded="false" />
+                <element signature="e#6707#6708#0" expanded="false" />
+                <element signature="e#6769#6770#0" expanded="false" />
+                <element signature="e#6825#6826#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FutureResponse.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/FutureResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1406#1416#0" expanded="false" />
+                <element signature="e#1483#1484#0" expanded="false" />
+                <element signature="e#1527#1528#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransportFilter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/TransportFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1201#1202#0" expanded="false" />
+                <element signature="e#1233#1234#0" expanded="false" />
+                <element signature="e#1302#1303#0" expanded="false" />
+                <element signature="e#1342#1343#0" expanded="false" />
+                <element signature="e#2322#2323#0" expanded="false" />
+                <element signature="e#2374#2375#0" expanded="false" />
+                <element signature="e#2457#2458#0" expanded="false" />
+                <element signature="e#2484#2485#0" expanded="false" />
+                <element signature="e#2530#2531#0" expanded="false" />
+                <element signature="e#2568#2569#0" expanded="false" />
+                <element signature="e#3190#3191#0" expanded="false" />
+                <element signature="e#3242#3243#0" expanded="false" />
+                <element signature="e#3297#3298#0" expanded="false" />
+                <element signature="e#3352#3353#0" expanded="false" />
+                <element signature="e#3404#3405#0" expanded="false" />
+                <element signature="e#3456#3457#0" expanded="false" />
+                <element signature="e#3709#3710#0" expanded="false" />
+                <element signature="e#3755#3756#0" expanded="false" />
+                <element signature="e#3910#3911#0" expanded="false" />
+                <element signature="e#3955#3956#0" expanded="false" />
+                <element signature="e#4004#4005#0" expanded="false" />
+                <element signature="e#4044#4045#0" expanded="false" />
+                <element signature="e#4094#4095#0" expanded="false" />
+                <element signature="e#4135#4136#0" expanded="false" />
+                <element signature="e#4293#4294#0" expanded="false" />
+                <element signature="e#4340#4341#0" expanded="false" />
+                <element signature="e#4399#4400#0" expanded="false" />
+                <element signature="e#4449#4450#0" expanded="false" />
+                <element signature="e#4509#4510#0" expanded="false" />
+                <element signature="e#4560#4561#0" expanded="false" />
+                <element signature="e#4768#4769#0" expanded="false" />
+                <element signature="e#4817#4818#0" expanded="false" />
+                <element signature="e#4902#4903#0" expanded="false" />
+                <element signature="e#4956#4957#0" expanded="false" />
+                <element signature="e#5011#5012#0" expanded="false" />
+                <element signature="e#5054#5055#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractInactivityMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/AbstractInactivityMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5786">
+              <caret line="308" column="16" lean-forward="false" selection-start-line="308" selection-start-column="16" selection-end-line="308" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3788#4160#0" expanded="false" />
+                <element signature="e#4159#4160#0" expanded="false" />
+                <element signature="e#5451#5452#0" expanded="false" />
+                <element signature="e#5495#5496#0" expanded="false" />
+                <element signature="e#5554#5555#0" expanded="false" />
+                <element signature="e#5611#5612#0" expanded="false" />
+                <element signature="e#6064#6065#0" expanded="false" />
+                <element signature="e#6109#6110#0" expanded="false" />
+                <element signature="e#8154#8155#0" expanded="false" />
+                <element signature="e#8249#8250#0" expanded="false" />
+                <element signature="e#9666#9667#0" expanded="false" />
+                <element signature="e#9760#9761#0" expanded="false" />
+                <element signature="e#13200#13201#0" expanded="false" />
+                <element signature="e#13234#13235#0" expanded="false" />
+                <element signature="e#13280#13281#0" expanded="false" />
+                <element signature="e#13324#13325#0" expanded="false" />
+                <element signature="e#13392#13393#0" expanded="false" />
+                <element signature="e#13454#13455#0" expanded="false" />
+                <element signature="e#13492#13493#0" expanded="false" />
+                <element signature="e#13528#13529#0" expanded="false" />
+                <element signature="e#13584#13585#0" expanded="false" />
+                <element signature="e#13634#13635#0" expanded="false" />
+                <element signature="e#13673#13674#0" expanded="false" />
+                <element signature="e#13710#13711#0" expanded="false" />
+                <element signature="e#13768#13769#0" expanded="false" />
+                <element signature="e#13820#13821#0" expanded="false" />
+                <element signature="e#13861#13862#0" expanded="false" />
+                <element signature="e#13900#13901#0" expanded="false" />
+                <element signature="e#13962#13963#0" expanded="false" />
+                <element signature="e#14018#14019#0" expanded="false" />
+                <element signature="e#14070#14071#0" expanded="false" />
+                <element signature="e#14123#14124#0" expanded="false" />
+                <element signature="e#14186#14187#0" expanded="false" />
+                <element signature="e#14240#14241#0" expanded="false" />
+                <element signature="e#14281#14282#0" expanded="false" />
+                <element signature="e#14329#14330#0" expanded="false" />
+                <element signature="e#14452#14453#0" expanded="false" />
+                <element signature="e#14517#14518#0" expanded="false" />
+                <element signature="e#18444#18702#0" expanded="false" />
+                <element signature="e#18701#18702#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MutexTransport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/MutexTransport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2792#2793#0" expanded="false" />
+                <element signature="e#2830#2831#0" expanded="false" />
+                <element signature="e#2870#2871#0" expanded="false" />
+                <element signature="e#2906#2907#0" expanded="false" />
+                <element signature="e#2965#2966#0" expanded="false" />
+                <element signature="e#3015#3016#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TRANSPORT_FACTORYS</find>
+      <find>command</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupao/lujia/ActiveMqProducerTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupao/lujia/ActiveMqProducer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activemqProducer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lujia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSMBP2.0_Pro" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ActiveMqProducer">
+    <configuration default="false" name="ActiveMqProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.lujia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.gupao.lujia.ActiveMqProducer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="activemqProducer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ActiveMqProducerTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.lujia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.gupao.lujia.ActiveMqProducerTopic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="activemqProducer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="activemqProducer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.ActiveMqProducer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ActiveMqProducerTopic" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.ActiveMqProducer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ActiveMqProducerTopic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c90391-4816-4213-8e79-b9ec6c7e3014" name="Default" comment="" />
+      <created>1530974211222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530974211222</updated>
+      <workItem from="1530974215282" duration="1533000" />
+      <workItem from="1531013934029" duration="2446000" />
+      <workItem from="1531018759686" duration="12697000" />
+      <workItem from="1531117403596" duration="1830000" />
+      <workItem from="1531137775023" duration="5923000" />
+      <workItem from="1531182583490" duration="70000" />
+      <workItem from="1531276469035" duration="6507000" />
+      <workItem from="1531535357990" duration="2558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33564000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38567492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19215938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3762">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/ConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.877/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1879">
+          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/TextMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/org/apache/activemq/ActiveMQConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/DeliveryMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lujia/ActiveMqProducerTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/javax/jms/MessageProducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/org/apache/activemq/ActiveMQMessageProducerSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="90" column="15" lean-forward="false" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/org/apache/activemq/ActiveMQMessageProducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="143" column="58" lean-forward="false" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/DeliveryMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/TextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/ActiveMQDestination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="117" column="38" lean-forward="false" selection-start-line="117" selection-start-column="38" selection-end-line="117" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/TransactionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/BaseCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/ActiveMQMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4.jar!/META-INF/services/org/apache/activemq/transport/tcp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.877/jre/lib/rt.jar!/javax/net/SocketFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/tcp/TcpTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3146">
+          <caret line="190" column="16" lean-forward="false" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/MessageProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.877/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#4059#0" expanded="false" />
+            <element signature="e#1247#1248#0" expanded="false" />
+            <element signature="e#1270#1271#0" expanded="false" />
+            <element signature="e#1663#1664#0" expanded="false" />
+            <element signature="e#1693#1694#0" expanded="false" />
+            <element signature="e#2406#2407#0" expanded="false" />
+            <element signature="e#2443#2444#0" expanded="false" />
+            <element signature="e#3173#3174#0" expanded="false" />
+            <element signature="e#3201#3202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/JMSException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#2020#0" expanded="false" />
+            <element signature="e#1533#1534#0" expanded="false" />
+            <element signature="e#1565#1566#0" expanded="false" />
+            <element signature="e#1610#1611#0" expanded="false" />
+            <element signature="e#1648#1649#0" expanded="false" />
+            <element signature="e#1980#1981#0" expanded="false" />
+            <element signature="e#2016#2017#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/javax/jms/IllegalStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#1371#0" expanded="false" />
+            <element signature="e#1242#1243#0" expanded="false" />
+            <element signature="e#1282#1283#0" expanded="false" />
+            <element signature="e#1333#1334#0" expanded="false" />
+            <element signature="e#1367#1368#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQQueueSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="132" column="14" lean-forward="false" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jdk1.877/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/usage/Usage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8998">
+          <caret line="472" column="19" lean-forward="false" selection-start-line="472" selection-start-column="19" selection-end-line="472" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2062#2077#0" expanded="false" />
+            <element signature="e#2303#2313#0" expanded="false" />
+            <element signature="e#4320#4321#0" expanded="false" />
+            <element signature="e#4354#4355#0" expanded="false" />
+            <element signature="e#4788#4789#0" expanded="false" />
+            <element signature="e#4827#4828#0" expanded="false" />
+            <element signature="e#4890#4891#0" expanded="false" />
+            <element signature="e#4932#4933#0" expanded="false" />
+            <element signature="e#4973#4974#0" expanded="false" />
+            <element signature="e#5012#5013#0" expanded="false" />
+            <element signature="e#10179#10497#0" expanded="false" />
+            <element signature="e#10496#10497#0" expanded="false" />
+            <element signature="e#10791#10792#0" expanded="false" />
+            <element signature="e#10818#10819#0" expanded="false" />
+            <element signature="e#12547#12548#0" expanded="false" />
+            <element signature="e#12585#12586#0" expanded="false" />
+            <element signature="e#12866#13370#0" expanded="false" />
+            <element signature="e#13369#13370#0" expanded="false" />
+            <element signature="e#13868#13869#0" expanded="false" />
+            <element signature="e#13903#13904#0" expanded="false" />
+            <element signature="e#14031#14032#0" expanded="false" />
+            <element signature="e#14069#14070#0" expanded="false" />
+            <element signature="e#14151#14152#0" expanded="false" />
+            <element signature="e#14190#14191#0" expanded="false" />
+            <element signature="e#14324#14325#0" expanded="false" />
+            <element signature="e#14370#14371#0" expanded="false" />
+            <element signature="e#14410#14411#0" expanded="false" />
+            <element signature="e#14442#14443#0" expanded="false" />
+            <element signature="e#14470#14471#0" expanded="false" />
+            <element signature="e#14499#14500#0" expanded="false" />
+            <element signature="e#14538#14539#0" expanded="false" />
+            <element signature="e#14574#14575#0" expanded="false" />
+            <element signature="e#14634#14635#0" expanded="false" />
+            <element signature="e#14674#14675#0" expanded="false" />
+            <element signature="e#14721#14722#0" expanded="false" />
+            <element signature="e#14752#14753#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/usage/MemoryUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="45" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1188#1189#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1514#1515#0" expanded="false" />
+            <element signature="e#1553#1554#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#1624#1625#0" expanded="false" />
+            <element signature="e#1683#1684#0" expanded="false" />
+            <element signature="e#1723#1724#0" expanded="false" />
+            <element signature="e#1797#1798#0" expanded="false" />
+            <element signature="e#1841#1842#0" expanded="false" />
+            <element signature="e#5404#5405#0" expanded="false" />
+            <element signature="e#5432#5433#0" expanded="false" />
+            <element signature="e#5476#5477#0" expanded="false" />
+            <element signature="e#5504#5505#0" expanded="false" />
+            <element signature="e#5544#5545#0" expanded="false" />
+            <element signature="e#5578#5579#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/Transport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQMessageProducerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4840">
+          <caret line="240" column="17" lean-forward="false" selection-start-line="240" selection-start-column="13" selection-end-line="240" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#13726#13727#0" expanded="false" />
+            <element signature="e#13760#13761#0" expanded="false" />
+            <element signature="e#13876#13877#0" expanded="false" />
+            <element signature="e#13922#13923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQMessageProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5456">
+          <caret line="287" column="25" lean-forward="false" selection-start-line="287" selection-start-column="21" selection-end-line="287" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5990#5991#0" expanded="false" />
+            <element signature="e#6018#6019#0" expanded="false" />
+            <element signature="e#6072#6073#0" expanded="false" />
+            <element signature="e#6100#6101#0" expanded="false" />
+            <element signature="e#11849#11850#0" expanded="false" />
+            <element signature="e#11883#11884#0" expanded="false" />
+            <element signature="e#12066#12067#0" expanded="false" />
+            <element signature="e#12112#12113#0" expanded="false" />
+            <element signature="e#12235#12236#0" expanded="false" />
+            <element signature="e#12272#12273#0" expanded="false" />
+            <element signature="e#12375#12376#0" expanded="false" />
+            <element signature="e#12431#12432#0" expanded="false" />
+            <element signature="e#12574#12575#0" expanded="false" />
+            <element signature="e#12628#12629#0" expanded="false" />
+            <element signature="e#12725#12726#0" expanded="false" />
+            <element signature="e#12784#12785#0" expanded="false" />
+            <element signature="e#12892#12893#0" expanded="false" />
+            <element signature="e#12924#12925#0" expanded="false" />
+            <element signature="e#12970#12971#0" expanded="false" />
+            <element signature="e#13057#13058#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26950">
+          <caret line="1386" column="48" lean-forward="false" selection-start-line="1386" selection-start-column="41" selection-end-line="1386" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5536#5586#0" expanded="false" />
+            <element signature="e#7888#7905#0" expanded="false" />
+            <element signature="e#8022#8050#0" expanded="false" />
+            <element signature="e#8157#8176#0" expanded="false" />
+            <element signature="e#8332#8364#0" expanded="false" />
+            <element signature="e#8470#8507#0" expanded="false" />
+            <element signature="e#10306#10314#0" expanded="false" />
+            <element signature="e#11060#11445#0" expanded="false" />
+            <element signature="e#11444#11445#0" expanded="false" />
+            <element signature="e#12203#12204#0" expanded="false" />
+            <element signature="e#12250#12251#0" expanded="false" />
+            <element signature="e#12301#12302#0" expanded="false" />
+            <element signature="e#12348#12349#0" expanded="false" />
+            <element signature="e#13777#13778#0" expanded="false" />
+            <element signature="e#13805#13806#0" expanded="false" />
+            <element signature="e#38075#38091#0" expanded="false" />
+            <element signature="e#38560#38561#0" expanded="false" />
+            <element signature="e#38596#38597#0" expanded="false" />
+            <element signature="e#38693#38694#0" expanded="false" />
+            <element signature="e#38728#38729#0" expanded="false" />
+            <element signature="e#38850#38851#0" expanded="false" />
+            <element signature="e#38886#38887#0" expanded="false" />
+            <element signature="e#39003#39004#0" expanded="false" />
+            <element signature="e#39047#39048#0" expanded="false" />
+            <element signature="e#39163#39164#0" expanded="false" />
+            <element signature="e#39200#39201#0" expanded="false" />
+            <element signature="e#39457#39458#0" expanded="false" />
+            <element signature="e#39509#39510#0" expanded="false" />
+            <element signature="e#39571#39572#0" expanded="false" />
+            <element signature="e#39603#39604#0" expanded="false" />
+            <element signature="e#40020#40021#0" expanded="false" />
+            <element signature="e#40069#40070#0" expanded="false" />
+            <element signature="e#40505#40506#0" expanded="false" />
+            <element signature="e#40552#40553#0" expanded="false" />
+            <element signature="e#40935#40936#0" expanded="false" />
+            <element signature="e#40970#40971#0" expanded="false" />
+            <element signature="e#41285#41286#0" expanded="false" />
+            <element signature="e#41333#41334#0" expanded="false" />
+            <element signature="e#41428#41429#0" expanded="false" />
+            <element signature="e#41460#41461#0" expanded="false" />
+            <element signature="e#41509#41510#0" expanded="false" />
+            <element signature="e#41554#41555#0" expanded="false" />
+            <element signature="e#41986#41987#0" expanded="false" />
+            <element signature="e#42032#42033#0" expanded="false" />
+            <element signature="e#42481#42482#0" expanded="false" />
+            <element signature="e#42521#42522#0" expanded="false" />
+            <element signature="e#42866#42867#0" expanded="false" />
+            <element signature="e#42924#42925#0" expanded="false" />
+            <element signature="e#43128#43129#0" expanded="false" />
+            <element signature="e#43185#43186#0" expanded="false" />
+            <element signature="e#43374#43375#0" expanded="false" />
+            <element signature="e#43419#43420#0" expanded="false" />
+            <element signature="e#44207#44208#0" expanded="false" />
+            <element signature="e#44241#44242#0" expanded="false" />
+            <element signature="e#44518#44519#0" expanded="false" />
+            <element signature="e#44564#44565#0" expanded="false" />
+            <element signature="e#44651#44652#0" expanded="false" />
+            <element signature="e#44696#44697#0" expanded="false" />
+            <element signature="e#44820#44821#0" expanded="false" />
+            <element signature="e#44871#44872#0" expanded="false" />
+            <element signature="e#53797#53813#0" expanded="false" />
+            <element signature="e#57176#59318#0" expanded="false" />
+            <element signature="e#59317#59318#0" expanded="false" />
+            <element signature="e#61886#61887#0" expanded="false" />
+            <element signature="e#61914#61915#0" expanded="false" />
+            <element signature="e#63905#63906#0" expanded="false" />
+            <element signature="e#63948#63949#0" expanded="false" />
+            <element signature="e#64194#64195#0" expanded="false" />
+            <element signature="e#64229#64230#0" expanded="false" />
+            <element signature="e#64597#64598#0" expanded="false" />
+            <element signature="e#64645#64646#0" expanded="false" />
+            <element signature="e#64751#64752#0" expanded="false" />
+            <element signature="e#64793#64794#0" expanded="false" />
+            <element signature="e#64965#64966#0" expanded="false" />
+            <element signature="e#65017#65018#0" expanded="false" />
+            <element signature="e#65128#65129#0" expanded="false" />
+            <element signature="e#65180#65181#0" expanded="false" />
+            <element signature="e#65820#65821#0" expanded="false" />
+            <element signature="e#65864#65865#0" expanded="false" />
+            <element signature="e#68684#68685#0" expanded="false" />
+            <element signature="e#68717#68718#0" expanded="false" />
+            <element signature="e#69800#69801#0" expanded="false" />
+            <element signature="e#69841#69842#0" expanded="false" />
+            <element signature="e#70298#70299#0" expanded="false" />
+            <element signature="e#70358#70359#0" expanded="false" />
+            <element signature="e#70468#70469#0" expanded="false" />
+            <element signature="e#70510#70511#0" expanded="false" />
+            <element signature="e#70794#70795#0" expanded="false" />
+            <element signature="e#70856#70857#0" expanded="false" />
+            <element signature="e#71189#71190#0" expanded="false" />
+            <element signature="e#71238#71239#0" expanded="false" />
+            <element signature="e#71298#71299#0" expanded="false" />
+            <element signature="e#71356#71357#0" expanded="false" />
+            <element signature="e#72195#72196#0" expanded="false" />
+            <element signature="e#72229#72230#0" expanded="false" />
+            <element signature="e#72363#72364#0" expanded="false" />
+            <element signature="e#72409#72410#0" expanded="false" />
+            <element signature="e#72498#72499#0" expanded="false" />
+            <element signature="e#72534#72535#0" expanded="false" />
+            <element signature="e#72662#72663#0" expanded="false" />
+            <element signature="e#72712#72713#0" expanded="false" />
+            <element signature="e#72816#72817#0" expanded="false" />
+            <element signature="e#72850#72851#0" expanded="false" />
+            <element signature="e#73221#73222#0" expanded="false" />
+            <element signature="e#73253#73254#0" expanded="false" />
+            <element signature="e#73449#73450#0" expanded="false" />
+            <element signature="e#73493#73494#0" expanded="false" />
+            <element signature="e#73694#73695#0" expanded="false" />
+            <element signature="e#73740#73741#0" expanded="false" />
+            <element signature="e#73799#73800#0" expanded="false" />
+            <element signature="e#73857#73858#0" expanded="false" />
+            <element signature="e#76736#76966#0" expanded="false" />
+            <element signature="e#76965#76966#0" expanded="false" />
+            <element signature="e#78396#78397#0" expanded="false" />
+            <element signature="e#78450#78451#0" expanded="false" />
+            <element signature="e#79179#79405#0" expanded="false" />
+            <element signature="e#79404#79405#0" expanded="false" />
+            <element signature="e#80076#80284#0" expanded="false" />
+            <element signature="e#80283#80284#0" expanded="false" />
+            <element signature="e#80608#81362#0" expanded="false" />
+            <element signature="e#81361#81362#0" expanded="false" />
+            <element signature="e#85011#85012#0" expanded="false" />
+            <element signature="e#85061#85062#0" expanded="false" />
+            <element signature="e#85102#85103#0" expanded="false" />
+            <element signature="e#85139#85140#0" expanded="false" />
+            <element signature="e#85276#85277#0" expanded="false" />
+            <element signature="e#85328#85329#0" expanded="false" />
+            <element signature="e#85817#85818#0" expanded="false" />
+            <element signature="e#85853#85854#0" expanded="false" />
+            <element signature="e#86691#86692#0" expanded="false" />
+            <element signature="e#86741#86742#0" expanded="false" />
+            <element signature="e#86801#86802#0" expanded="false" />
+            <element signature="e#86857#86858#0" expanded="false" />
+            <element signature="e#91811#91812#0" expanded="false" />
+            <element signature="e#91869#91870#0" expanded="false" />
+            <element signature="e#92123#92124#0" expanded="false" />
+            <element signature="e#92170#92171#0" expanded="false" />
+            <element signature="e#92209#92210#0" expanded="false" />
+            <element signature="e#92253#92254#0" expanded="false" />
+            <element signature="e#92295#92296#0" expanded="false" />
+            <element signature="e#92336#92337#0" expanded="false" />
+            <element signature="e#92401#92402#0" expanded="false" />
+            <element signature="e#92461#92462#0" expanded="false" />
+            <element signature="e#92510#92511#0" expanded="false" />
+            <element signature="e#92567#92568#0" expanded="false" />
+            <element signature="e#92807#92808#0" expanded="false" />
+            <element signature="e#92867#92868#0" expanded="false" />
+            <element signature="e#93252#93253#0" expanded="false" />
+            <element signature="e#93292#93293#0" expanded="false" />
+            <element signature="e#95875#95876#0" expanded="false" />
+            <element signature="e#95934#95935#0" expanded="false" />
+            <element signature="e#96865#96866#0" expanded="false" />
+            <element signature="e#96901#96902#0" expanded="false" />
+            <element signature="e#96970#96971#0" expanded="false" />
+            <element signature="e#97001#97002#0" expanded="false" />
+            <element signature="e#97100#97101#0" expanded="false" />
+            <element signature="e#97146#97147#0" expanded="false" />
+            <element signature="e#97294#97295#0" expanded="false" />
+            <element signature="e#97354#97355#0" expanded="false" />
+            <element signature="e#97404#97405#0" expanded="false" />
+            <element signature="e#97450#97451#0" expanded="false" />
+            <element signature="e#97647#97648#0" expanded="false" />
+            <element signature="e#97691#97692#0" expanded="false" />
+            <element signature="e#97879#97880#0" expanded="false" />
+            <element signature="e#97922#97923#0" expanded="false" />
+            <element signature="e#100232#100233#0" expanded="false" />
+            <element signature="e#100274#100275#0" expanded="false" />
+            <element signature="e#100315#100316#0" expanded="false" />
+            <element signature="e#100355#100356#0" expanded="false" />
+            <element signature="e#100418#100419#0" expanded="false" />
+            <element signature="e#100476#100477#0" expanded="false" />
+            <element signature="e#100790#100791#0" expanded="false" />
+            <element signature="e#100832#100833#0" expanded="false" />
+            <element signature="e#101413#101414#0" expanded="false" />
+            <element signature="e#101468#101469#0" expanded="false" />
+            <element signature="e#102095#102096#0" expanded="false" />
+            <element signature="e#102144#102145#0" expanded="false" />
+            <element signature="e#102692#102693#0" expanded="false" />
+            <element signature="e#102730#102731#0" expanded="false" />
+            <element signature="e#102798#102799#0" expanded="false" />
+            <element signature="e#102852#102853#0" expanded="false" />
+            <element signature="e#102895#102896#0" expanded="false" />
+            <element signature="e#102934#102935#0" expanded="false" />
+            <element signature="e#102999#103000#0" expanded="false" />
+            <element signature="e#103055#103056#0" expanded="false" />
+            <element signature="e#103101#103102#0" expanded="false" />
+            <element signature="e#103143#103144#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/FutureResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1406#1416#0" expanded="false" />
+            <element signature="e#1483#1484#0" expanded="false" />
+            <element signature="e#1527#1528#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/DataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/WireFormatNegotiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="98" column="32" lean-forward="false" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6407#6408#0" expanded="false" />
+            <element signature="e#6445#6446#0" expanded="false" />
+            <element signature="e#6668#6669#0" expanded="false" />
+            <element signature="e#6707#6708#0" expanded="false" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6825#6826#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/AbstractInactivityMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5786">
+          <caret line="308" column="16" lean-forward="false" selection-start-line="308" selection-start-column="16" selection-end-line="308" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3788#4160#0" expanded="false" />
+            <element signature="e#4159#4160#0" expanded="false" />
+            <element signature="e#5451#5452#0" expanded="false" />
+            <element signature="e#5495#5496#0" expanded="false" />
+            <element signature="e#5554#5555#0" expanded="false" />
+            <element signature="e#5611#5612#0" expanded="false" />
+            <element signature="e#6064#6065#0" expanded="false" />
+            <element signature="e#6109#6110#0" expanded="false" />
+            <element signature="e#8154#8155#0" expanded="false" />
+            <element signature="e#8249#8250#0" expanded="false" />
+            <element signature="e#9666#9667#0" expanded="false" />
+            <element signature="e#9760#9761#0" expanded="false" />
+            <element signature="e#13200#13201#0" expanded="false" />
+            <element signature="e#13234#13235#0" expanded="false" />
+            <element signature="e#13280#13281#0" expanded="false" />
+            <element signature="e#13324#13325#0" expanded="false" />
+            <element signature="e#13392#13393#0" expanded="false" />
+            <element signature="e#13454#13455#0" expanded="false" />
+            <element signature="e#13492#13493#0" expanded="false" />
+            <element signature="e#13528#13529#0" expanded="false" />
+            <element signature="e#13584#13585#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#13673#13674#0" expanded="false" />
+            <element signature="e#13710#13711#0" expanded="false" />
+            <element signature="e#13768#13769#0" expanded="false" />
+            <element signature="e#13820#13821#0" expanded="false" />
+            <element signature="e#13861#13862#0" expanded="false" />
+            <element signature="e#13900#13901#0" expanded="false" />
+            <element signature="e#13962#13963#0" expanded="false" />
+            <element signature="e#14018#14019#0" expanded="false" />
+            <element signature="e#14070#14071#0" expanded="false" />
+            <element signature="e#14123#14124#0" expanded="false" />
+            <element signature="e#14186#14187#0" expanded="false" />
+            <element signature="e#14240#14241#0" expanded="false" />
+            <element signature="e#14281#14282#0" expanded="false" />
+            <element signature="e#14329#14330#0" expanded="false" />
+            <element signature="e#14452#14453#0" expanded="false" />
+            <element signature="e#14517#14518#0" expanded="false" />
+            <element signature="e#18444#18702#0" expanded="false" />
+            <element signature="e#18701#18702#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/TransportFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1201#1202#0" expanded="false" />
+            <element signature="e#1233#1234#0" expanded="false" />
+            <element signature="e#1302#1303#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#2322#2323#0" expanded="false" />
+            <element signature="e#2374#2375#0" expanded="false" />
+            <element signature="e#2457#2458#0" expanded="false" />
+            <element signature="e#2484#2485#0" expanded="false" />
+            <element signature="e#2530#2531#0" expanded="false" />
+            <element signature="e#2568#2569#0" expanded="false" />
+            <element signature="e#3190#3191#0" expanded="false" />
+            <element signature="e#3242#3243#0" expanded="false" />
+            <element signature="e#3297#3298#0" expanded="false" />
+            <element signature="e#3352#3353#0" expanded="false" />
+            <element signature="e#3404#3405#0" expanded="false" />
+            <element signature="e#3456#3457#0" expanded="false" />
+            <element signature="e#3709#3710#0" expanded="false" />
+            <element signature="e#3755#3756#0" expanded="false" />
+            <element signature="e#3910#3911#0" expanded="false" />
+            <element signature="e#3955#3956#0" expanded="false" />
+            <element signature="e#4004#4005#0" expanded="false" />
+            <element signature="e#4044#4045#0" expanded="false" />
+            <element signature="e#4094#4095#0" expanded="false" />
+            <element signature="e#4135#4136#0" expanded="false" />
+            <element signature="e#4293#4294#0" expanded="false" />
+            <element signature="e#4340#4341#0" expanded="false" />
+            <element signature="e#4399#4400#0" expanded="false" />
+            <element signature="e#4449#4450#0" expanded="false" />
+            <element signature="e#4509#4510#0" expanded="false" />
+            <element signature="e#4560#4561#0" expanded="false" />
+            <element signature="e#4768#4769#0" expanded="false" />
+            <element signature="e#4817#4818#0" expanded="false" />
+            <element signature="e#4902#4903#0" expanded="false" />
+            <element signature="e#4956#4957#0" expanded="false" />
+            <element signature="e#5011#5012#0" expanded="false" />
+            <element signature="e#5054#5055#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/MutexTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2792#2793#0" expanded="false" />
+            <element signature="e#2830#2831#0" expanded="false" />
+            <element signature="e#2870#2871#0" expanded="false" />
+            <element signature="e#2906#2907#0" expanded="false" />
+            <element signature="e#2965#2966#0" expanded="false" />
+            <element signature="e#3015#3016#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/ResponseCorrelator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1852#1853#0" expanded="false" />
+            <element signature="e#1906#1907#0" expanded="false" />
+            <element signature="e#5498#5499#0" expanded="false" />
+            <element signature="e#5538#5539#0" expanded="false" />
+            <element signature="e#5570#5571#0" expanded="false" />
+            <element signature="e#5608#5609#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40634">
+          <caret line="1956" column="0" lean-forward="false" selection-start-line="1956" selection-start-column="0" selection-end-line="1956" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9875#9900#0" expanded="false" />
+            <element signature="e#10006#10031#0" expanded="false" />
+            <element signature="e#12868#12869#0" expanded="false" />
+            <element signature="e#12909#12910#0" expanded="false" />
+            <element signature="e#13068#13069#0" expanded="false" />
+            <element signature="e#13096#13097#0" expanded="false" />
+            <element signature="e#13257#13258#0" expanded="false" />
+            <element signature="e#13285#13286#0" expanded="false" />
+            <element signature="e#29316#29501#0" expanded="false" />
+            <element signature="e#29500#29501#0" expanded="false" />
+            <element signature="e#29723#29884#0" expanded="false" />
+            <element signature="e#29883#29884#0" expanded="false" />
+            <element signature="e#32319#32320#0" expanded="false" />
+            <element signature="e#32348#32349#0" expanded="false" />
+            <element signature="e#43728#45856#0" expanded="false" />
+            <element signature="e#45855#45856#0" expanded="false" />
+            <element signature="e#84495#84496#0" expanded="false" />
+            <element signature="e#84537#84538#0" expanded="false" />
+            <element signature="e#89577#89578#0" expanded="false" />
+            <element signature="e#89632#89633#0" expanded="false" />
+            <element signature="e#90119#90120#0" expanded="false" />
+            <element signature="e#90196#90197#0" expanded="false" />
+            <element signature="e#90386#90387#0" expanded="false" />
+            <element signature="e#90456#90457#0" expanded="false" />
+            <element signature="e#90650#90651#0" expanded="false" />
+            <element signature="e#90723#90724#0" expanded="false" />
+            <element signature="e#90770#90771#0" expanded="false" />
+            <element signature="e#90854#90855#0" expanded="false" />
+            <element signature="e#91037#91038#0" expanded="false" />
+            <element signature="e#91076#91077#0" expanded="false" />
+            <element signature="e#91276#91277#0" expanded="false" />
+            <element signature="e#91332#91333#0" expanded="false" />
+            <element signature="e#92247#92248#0" expanded="false" />
+            <element signature="e#92309#92310#0" expanded="false" />
+            <element signature="e#92873#92874#0" expanded="false" />
+            <element signature="e#92909#92910#0" expanded="false" />
+            <element signature="e#92949#92950#0" expanded="false" />
+            <element signature="e#92985#92986#0" expanded="false" />
+            <element signature="e#93044#93045#0" expanded="false" />
+            <element signature="e#93094#93095#0" expanded="false" />
+            <element signature="e#93206#93207#0" expanded="false" />
+            <element signature="e#93249#93250#0" expanded="false" />
+            <element signature="e#93520#93521#0" expanded="false" />
+            <element signature="e#93554#93555#0" expanded="false" />
+            <element signature="e#93603#93604#0" expanded="false" />
+            <element signature="e#93636#93637#0" expanded="false" />
+            <element signature="e#93913#93914#0" expanded="false" />
+            <element signature="e#93959#93960#0" expanded="false" />
+            <element signature="e#94016#94017#0" expanded="false" />
+            <element signature="e#94057#94058#0" expanded="false" />
+            <element signature="e#94420#94421#0" expanded="false" />
+            <element signature="e#94475#94476#0" expanded="false" />
+            <element signature="e#96962#96963#0" expanded="false" />
+            <element signature="e#97008#97009#0" expanded="false" />
+            <element signature="e#97534#97535#0" expanded="false" />
+            <element signature="e#97580#97581#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/ActiveMQConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6072">
+          <caret line="330" column="40" lean-forward="false" selection-start-line="330" selection-start-column="40" selection-end-line="330" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#8406#8407#0" expanded="false" />
+            <element signature="e#8446#8447#0" expanded="false" />
+            <element signature="e#8504#8505#0" expanded="false" />
+            <element signature="e#8546#8547#0" expanded="false" />
+            <element signature="e#8601#8602#0" expanded="false" />
+            <element signature="e#8651#8652#0" expanded="false" />
+            <element signature="e#11312#11313#0" expanded="false" />
+            <element signature="e#11352#11353#0" expanded="false" />
+            <element signature="e#18162#18163#0" expanded="false" />
+            <element signature="e#18232#18233#0" expanded="false" />
+            <element signature="e#20723#20724#0" expanded="false" />
+            <element signature="e#20754#20755#0" expanded="false" />
+            <element signature="e#21021#21022#0" expanded="false" />
+            <element signature="e#21061#21062#0" expanded="false" />
+            <element signature="e#21105#21106#0" expanded="false" />
+            <element signature="e#21145#21146#0" expanded="false" />
+            <element signature="e#21520#21521#0" expanded="false" />
+            <element signature="e#21578#21579#0" expanded="false" />
+            <element signature="e#21631#21632#0" expanded="false" />
+            <element signature="e#21680#21681#0" expanded="false" />
+            <element signature="e#22047#22048#0" expanded="false" />
+            <element signature="e#22094#22095#0" expanded="false" />
+            <element signature="e#22419#22420#0" expanded="false" />
+            <element signature="e#22450#22451#0" expanded="false" />
+            <element signature="e#22590#22591#0" expanded="false" />
+            <element signature="e#22630#22631#0" expanded="false" />
+            <element signature="e#22687#22688#0" expanded="false" />
+            <element signature="e#22724#22725#0" expanded="false" />
+            <element signature="e#22981#22982#0" expanded="false" />
+            <element signature="e#23033#23034#0" expanded="false" />
+            <element signature="e#23072#23073#0" expanded="false" />
+            <element signature="e#23107#23108#0" expanded="false" />
+            <element signature="e#23164#23165#0" expanded="false" />
+            <element signature="e#23205#23206#0" expanded="false" />
+            <element signature="e#23876#23877#0" expanded="false" />
+            <element signature="e#23924#23925#0" expanded="false" />
+            <element signature="e#23984#23985#0" expanded="false" />
+            <element signature="e#24027#24028#0" expanded="false" />
+            <element signature="e#24283#24284#0" expanded="false" />
+            <element signature="e#24325#24326#0" expanded="false" />
+            <element signature="e#24497#24498#0" expanded="false" />
+            <element signature="e#24549#24550#0" expanded="false" />
+            <element signature="e#24584#24585#0" expanded="false" />
+            <element signature="e#24615#24616#0" expanded="false" />
+            <element signature="e#24752#24753#0" expanded="false" />
+            <element signature="e#24792#24793#0" expanded="false" />
+            <element signature="e#24841#24842#0" expanded="false" />
+            <element signature="e#24886#24887#0" expanded="false" />
+            <element signature="e#25312#25313#0" expanded="false" />
+            <element signature="e#25352#25353#0" expanded="false" />
+            <element signature="e#25697#25698#0" expanded="false" />
+            <element signature="e#25755#25756#0" expanded="false" />
+            <element signature="e#25808#25809#0" expanded="false" />
+            <element signature="e#25868#25869#0" expanded="false" />
+            <element signature="e#26217#26218#0" expanded="false" />
+            <element signature="e#26264#26265#0" expanded="false" />
+            <element signature="e#26601#26602#0" expanded="false" />
+            <element signature="e#26635#26636#0" expanded="false" />
+            <element signature="e#26735#26736#0" expanded="false" />
+            <element signature="e#26769#26770#0" expanded="false" />
+            <element signature="e#26903#26904#0" expanded="false" />
+            <element signature="e#26949#26950#0" expanded="false" />
+            <element signature="e#27038#27039#0" expanded="false" />
+            <element signature="e#27074#27075#0" expanded="false" />
+            <element signature="e#27202#27203#0" expanded="false" />
+            <element signature="e#27252#27253#0" expanded="false" />
+            <element signature="e#27363#27364#0" expanded="false" />
+            <element signature="e#27415#27416#0" expanded="false" />
+            <element signature="e#27937#27938#0" expanded="false" />
+            <element signature="e#27983#27984#0" expanded="false" />
+            <element signature="e#33079#33080#0" expanded="false" />
+            <element signature="e#33116#33117#0" expanded="false" />
+            <element signature="e#33253#33254#0" expanded="false" />
+            <element signature="e#33305#33306#0" expanded="false" />
+            <element signature="e#33365#33366#0" expanded="false" />
+            <element signature="e#33421#33422#0" expanded="false" />
+            <element signature="e#33975#33976#0" expanded="false" />
+            <element signature="e#34011#34012#0" expanded="false" />
+            <element signature="e#34849#34850#0" expanded="false" />
+            <element signature="e#34899#34900#0" expanded="false" />
+            <element signature="e#34992#34993#0" expanded="false" />
+            <element signature="e#35027#35028#0" expanded="false" />
+            <element signature="e#35342#35343#0" expanded="false" />
+            <element signature="e#35390#35391#0" expanded="false" />
+            <element signature="e#35498#35499#0" expanded="false" />
+            <element signature="e#35539#35540#0" expanded="false" />
+            <element signature="e#35996#35997#0" expanded="false" />
+            <element signature="e#36056#36057#0" expanded="false" />
+            <element signature="e#36166#36167#0" expanded="false" />
+            <element signature="e#36208#36209#0" expanded="false" />
+            <element signature="e#36361#36362#0" expanded="false" />
+            <element signature="e#36423#36424#0" expanded="false" />
+            <element signature="e#36756#36757#0" expanded="false" />
+            <element signature="e#36805#36806#0" expanded="false" />
+            <element signature="e#36855#36856#0" expanded="false" />
+            <element signature="e#36901#36902#0" expanded="false" />
+            <element signature="e#37347#37348#0" expanded="false" />
+            <element signature="e#37384#37385#0" expanded="false" />
+            <element signature="e#37634#37635#0" expanded="false" />
+            <element signature="e#37686#37687#0" expanded="false" />
+            <element signature="e#38117#38118#0" expanded="false" />
+            <element signature="e#38175#38176#0" expanded="false" />
+            <element signature="e#38347#38348#0" expanded="false" />
+            <element signature="e#38407#38408#0" expanded="false" />
+            <element signature="e#39027#39028#0" expanded="false" />
+            <element signature="e#39079#39080#0" expanded="false" />
+            <element signature="e#39203#39204#0" expanded="false" />
+            <element signature="e#39261#39262#0" expanded="false" />
+            <element signature="e#39316#39317#0" expanded="false" />
+            <element signature="e#39357#39358#0" expanded="false" />
+            <element signature="e#39555#39556#0" expanded="false" />
+            <element signature="e#39613#39614#0" expanded="false" />
+            <element signature="e#40417#40418#0" expanded="false" />
+            <element signature="e#40457#40458#0" expanded="false" />
+            <element signature="e#41026#41027#0" expanded="false" />
+            <element signature="e#41066#41067#0" expanded="false" />
+            <element signature="e#41859#41860#0" expanded="false" />
+            <element signature="e#41892#41893#0" expanded="false" />
+            <element signature="e#41941#41942#0" expanded="false" />
+            <element signature="e#41985#41986#0" expanded="false" />
+            <element signature="e#42035#42036#0" expanded="false" />
+            <element signature="e#42084#42085#0" expanded="false" />
+            <element signature="e#42435#42436#0" expanded="false" />
+            <element signature="e#42480#42481#0" expanded="false" />
+            <element signature="e#42739#42740#0" expanded="false" />
+            <element signature="e#42798#42799#0" expanded="false" />
+            <element signature="e#43917#43918#0" expanded="false" />
+            <element signature="e#43963#43964#0" expanded="false" />
+            <element signature="e#44111#44112#0" expanded="false" />
+            <element signature="e#44171#44172#0" expanded="false" />
+            <element signature="e#44221#44222#0" expanded="false" />
+            <element signature="e#44269#44270#0" expanded="false" />
+            <element signature="e#44817#44818#0" expanded="false" />
+            <element signature="e#44863#44864#0" expanded="false" />
+            <element signature="e#45340#45341#0" expanded="false" />
+            <element signature="e#45380#45381#0" expanded="false" />
+            <element signature="e#45443#45444#0" expanded="false" />
+            <element signature="e#45501#45502#0" expanded="false" />
+            <element signature="e#45556#45557#0" expanded="false" />
+            <element signature="e#45596#45597#0" expanded="false" />
+            <element signature="e#45795#45796#0" expanded="false" />
+            <element signature="e#45837#45838#0" expanded="false" />
+            <element signature="e#46418#46419#0" expanded="false" />
+            <element signature="e#46473#46474#0" expanded="false" />
+            <element signature="e#46982#46983#0" expanded="false" />
+            <element signature="e#47025#47026#0" expanded="false" />
+            <element signature="e#47483#47484#0" expanded="false" />
+            <element signature="e#47532#47533#0" expanded="false" />
+            <element signature="e#48080#48081#0" expanded="false" />
+            <element signature="e#48118#48119#0" expanded="false" />
+            <element signature="e#48186#48187#0" expanded="false" />
+            <element signature="e#48240#48241#0" expanded="false" />
+            <element signature="e#48283#48284#0" expanded="false" />
+            <element signature="e#48322#48323#0" expanded="false" />
+            <element signature="e#48387#48388#0" expanded="false" />
+            <element signature="e#48443#48444#0" expanded="false" />
+            <element signature="e#48486#48487#0" expanded="false" />
+            <element signature="e#48522#48523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/tcp/TcpTransportFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2182#2198#0" expanded="false" />
+            <element signature="e#5150#5151#0" expanded="false" />
+            <element signature="e#5177#5178#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.4/activemq-all-5.15.4-sources.jar!/org/apache/activemq/transport/TransportFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="226" column="21" lean-forward="false" selection-start-line="226" selection-start-column="21" selection-end-line="226" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lujia/ActiveMqProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

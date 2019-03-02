@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-driver-mysql" />
+        <module name="demo-oracle" />
+        <module name="demo-spi" />
+        <module name="dubbo-client" />
+        <module name="dubbo-server" />
+        <module name="dubbo-server-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-driver-mysql" target="1.7" />
+      <module name="demo-oracle" target="1.7" />
+      <module name="demo-spi" target="1.7" />
+      <module name="dubbo-client" target="1.7" />
+      <module name="dubbo-server" target="1.7" />
+      <module name="dubbo-server-api" target="1.7" />
+      <module name="soap-demo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

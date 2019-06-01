@@ -6,3 +6,4 @@ java rmi
 注册中心：zookeeper 
 异步消息：mq
 test
+http://www.mybatis.org/mybatis-3/zh/index.html
